@@ -236,13 +236,14 @@ rbac-dashboard/
 Here are some screenshots of the application:
 
 ### Dashboard:
-![Dashboard Screenshot]("C:\Users\SS-ANDROID-002\Downloads\project-bolt-sb1-2hbjik (1)\dashboard.png")
+![dashboard](https://github.com/user-attachments/assets/87b918a5-292e-4314-9233-c8b2ff3e27ee)
 
 ### User Management:
-![User Management Screenshot]("C:\Users\SS-ANDROID-002\Downloads\project-bolt-sb1-2hbjik (1)\users.png")
+![users](https://github.com/user-attachments/assets/12028d4b-f576-4298-9507-c8128760cc3b)
 
 ### Role Management:
-![Role Management Screenshot]("C:\Users\SS-ANDROID-002\Downloads\project-bolt-sb1-2hbjik (1)\roles.png")
+![roles](https://github.com/user-attachments/assets/af995b41-e924-4bf6-a917-0f746958a1a7)
+
 
 ### Permission Management:
-![Permission Management Screenshot]("C:\Users\SS-ANDROID-002\Downloads\project-bolt-sb1-2hbjik (1)\permissions.png")
+![permissions](https://github.com/user-attachments/assets/cf4a3d48-5bb9-4668-ac48-77bc1c7c71db)
